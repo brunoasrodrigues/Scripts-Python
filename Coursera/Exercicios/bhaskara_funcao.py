@@ -25,12 +25,14 @@ def raizes(val_a, val_b, val_c):
 
     if delta2 < 0:
         print("esta equação não possui raízes reais")
-    
+
     elif delta2 == 0:
         print(f"a raiz dupla desta equação é {raiz1}")
-    
+
     else:
         if raiz1 < raiz2:
             print(f"as raízes da equação são {raiz1} e {raiz2}")
         else:
             print(f"as raízes da equação são {raiz2} e {raiz1}")
+
+# teste de Git.
