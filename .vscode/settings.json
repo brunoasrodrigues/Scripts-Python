@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
